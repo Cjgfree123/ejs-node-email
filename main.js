@@ -55,7 +55,7 @@ function scheduleCancel() {
                     auth: {
                         user: '270029631@qq.com',
                         // 这里密码不是qq密码，是你设置的smtp授权码
-                        pass: 'owbzpehxpsdtbhbj',
+                        pass: 'xxxxxxxxx',
                     }
                 });
 
